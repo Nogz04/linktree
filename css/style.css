@@ -1,5 +1,5 @@
 body {
-    background-color: #000000!important;
+    background-color: #25042b!important;
     font-family:'Montserrat', sans-serif!important;
     color: #ffffff!important;
     font-size: 1.1rem!important;
@@ -53,7 +53,7 @@ body {
 
 .botao:hover {
     color: #ffffff;
-    background-color: #00a1f1;
+    background-color: #27c2b5;
 }
 
 .social {
@@ -62,12 +62,12 @@ body {
 
 .social a {
     text-decoration: none;
-    color: #E1306C;
+    color: #ffffff;
 }
 
 .social a:hover {
     text-decoration: none;
-    color: #00a1f1;
+    color: #27c2b5;
 }
 
 .social ul li {
