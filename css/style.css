@@ -2,11 +2,13 @@ body {
   background-image: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnR6NHJ1ajVvNHl0N2NmaGk4dW8wb21jN2tmYm15M3JhajByczNociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PdSkWr8JRBQEkcoQkQ/giphy.gif');
   background-size: cover;
 
-  height: 100vh;
-  padding:0;
-  margin:0;
-    font-family: "Lexend", sans-serif;
+ font-family:'Montserrat', sans-serif!important;
+    font-size: 1.1rem!important;
+    line-height: 1.5rem!important;
+    text-align: center!importan
   }
+
+
 
 .container-fluid {
     max-width: 540px;
