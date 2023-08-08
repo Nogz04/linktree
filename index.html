@@ -16,6 +16,22 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 </head>
 <body>
+
+  <script>
+    function copiarEmail() {
+
+    var textoCopiado = document.getElementById("email");
+    /* Deixamos o texto selecionado (em azul) */
+  
+    textoCopiado.select();
+    /* Copia o texto que está selecionado */
+    document.execCommand("copy");
+  
+    alert("Email copiado para a área de transferência!");
+    }
+  </script>
+
+	
     <video id="videoQuack" controls loop style="display: none;">
         <source src="quack.mp4" type="video/mp4">
     </video>
